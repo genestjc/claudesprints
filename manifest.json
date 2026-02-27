@@ -1,0 +1,21 @@
+{
+  "expert_name": "Joseph Genest",
+  "task_id": "TASK_12482",
+  "timestamp": "2026-02-27T00:06:14.446264+00:00",
+  "repo_url": "git@github.com:genestjc/claudesprints.git",
+  "assignments": {
+    "model_b": "claude-opus-4-6",
+    "model_a": "claude-strudel-v3-p"
+  },
+  "code_names": {
+    "model_b": "Marlin",
+    "model_a": "Salmon"
+  },
+  "setup_verified": true,
+  "experiment_metadata": {
+    "setup_script_version": "2.1.0-v2",
+    "platform": "Darwin",
+    "claude_version_downloaded": "2026-02-27",
+    "setup_duration_seconds": 145.31
+  }
+}
